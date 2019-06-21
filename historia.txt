@@ -6,3 +6,5 @@ Juanito is 23 years old, he born in Colombia.
 Today we talk about his story.
 
 Juan is 183 centimeters.
+
+Juan works as information systems administrator.
